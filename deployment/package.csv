@@ -1,0 +1,101 @@
+package,city,place_tourism1,place_tourism2,place_tourism3,place_tourism4,place_tourism5,places
+1,Jakarta,Pasar Tanah Abang,Taman Ayodya,Museum Tekstil,None,None,Pasar Tanah Abang Taman Ayodya Museum Tekstil None None
+2,Jakarta,Pasar Tanah Abang,Pasar Taman Puring,Pasar Petak Sembilan,None,None,Pasar Tanah Abang Pasar Taman Puring Pasar Petak Sembilan None None
+3,Jakarta,Perpustakaan Nasional,Monas,Masjid Istiqlal,None,None,Perpustakaan Nasional Monas Masjid Istiqlal None None
+4,Jakarta,Pulau Tidung,Pulau Bidadari,Pulau Pari,Pulau Pramuka,Pulau Pelangi,Pulau Tidung Pulau Bidadari Pulau Pari Pulau Pramuka Pulau Pelangi
+5,Jakarta,Museum Satria Mandala,Museum Wayang,Museum Bahari Jakarta,Museum Macan (Modern and Contemporary Art in Nusantara),None,Museum Satria Mandala Museum Wayang Museum Bahari Jakarta Museum Macan (Modern and Contemporary Art in Nusantara) None
+6,Jakarta,Waterboom PIK (Pantai Indah Kapuk),Jakarta Aquarium dan Safari,SnowBay Waterpark,None,None,Waterboom PIK (Pantai Indah Kapuk) Jakarta Aquarium dan Safari SnowBay Waterpark None None
+7,Jakarta,Alive Museum Ancol,Ocean Ecopark,SnowBay Waterpark,None,None,Alive Museum Ancol Ocean Ecopark SnowBay Waterpark None None
+8,Jakarta,Kota Tua,Museum Bank Indonesia,Monas,Perpustakaan Nasional,Masjid Istiqlal,Kota Tua Museum Bank Indonesia Monas Perpustakaan Nasional Masjid Istiqlal
+9,Jakarta,Galeri Nasional Indonesia,Museum Seni Rupa dan Kramik,Galeri Indonesia Kaya,None,None,Galeri Nasional Indonesia Museum Seni Rupa dan Kramik Galeri Indonesia Kaya None None
+10,Jakarta,Taman Impian Jaya Ancol,Kota Tua,Museum Bank Indonesia,Museum Fatahillah,Museum Wayang,Taman Impian Jaya Ancol Kota Tua Museum Bank Indonesia Museum Fatahillah Museum Wayang
+11,Jakarta,Kota Tua,Jembatan Kota Intan,Klenteng Jin De Yuan,Wisata Kuliner Pecenongan,None,Kota Tua Jembatan Kota Intan Klenteng Jin De Yuan Wisata Kuliner Pecenongan None
+12,Jakarta,Hutan Kota Srengseng,Taman Cattleya,Freedom Library,None,None,Hutan Kota Srengseng Taman Cattleya Freedom Library None None
+13,Jakarta,Taman Mini Indonesia Indah (TMII),Museum Satria Mandala,Pasar Tanah Abang,None,None,Taman Mini Indonesia Indah (TMII) Museum Satria Mandala Pasar Tanah Abang None None
+14,Jakarta,Pasar Tanah Abang,Pasar Taman Puring,Pasar Seni,Pasar Petak Sembilan,None,Pasar Tanah Abang Pasar Taman Puring Pasar Seni Pasar Petak Sembilan None
+15,Jakarta,Mall Thamrin City,Grand Indonesia Mall,Plaza Indonesia,None,None,Mall Thamrin City Grand Indonesia Mall Plaza Indonesia None None
+16,Jakarta,Museum Joang 45,Museum Fatahillah,Museum Bank Indonesia,Museum Taman Prasasti,Museum Nasional,Museum Joang 45 Museum Fatahillah Museum Bank Indonesia Museum Taman Prasasti Museum Nasional
+17,Jakarta,Museum Sumpah Pemuda,Tugu Proklamasi,Museum Basoeki Abdullah,Museum Layang-layang,Museum Perangko,Museum Sumpah Pemuda Tugu Proklamasi Museum Basoeki Abdullah Museum Layang-layang Museum Perangko
+18,Jakarta,Klenteng Jin De Yuan,Masjid Istiqlal,Gereja Katedral,None,None,Klenteng Jin De Yuan Masjid Istiqlal Gereja Katedral None None
+19,Jakarta,Taman Menteng,Taman Suropati,Taman Lapangan Banteng,Taman Cattleya,Taman Spathodea,Taman Menteng Taman Suropati Taman Lapangan Banteng Taman Cattleya Taman Spathodea
+20,Jakarta,Wisata Agro Edukatif Istana Susu Cibugary,Bumi Perkemahan Cibubur,Taman Situ Lembang,Taman Agrowisata Cilangkap,Taman Lapangan Banteng,Wisata Agro Edukatif Istana Susu Cibugary Bumi Perkemahan Cibubur Taman Situ Lembang Taman Agrowisata Cilangkap Taman Lapangan Banteng
+21,Yogyakarta,Nol Kilometer Jl.Malioboro,Alun Alun Selatan Yogyakarta,Tugu Pal Putih Jogja,Bukit Lintang Sewu,Bendung Lepen,Nol Kilometer Jl.Malioboro Alun Alun Selatan Yogyakarta Tugu Pal Putih Jogja Bukit Lintang Sewu Bendung Lepen
+22,Yogyakarta,Air Terjun Kedung Pedut,Puncak Gunung Api Purba - Nglanggeran,Watu Mabur Mangunan,Geoforest Watu Payung Turunan,None,Air Terjun Kedung Pedut Puncak Gunung Api Purba - Nglanggeran Watu Mabur Mangunan Geoforest Watu Payung Turunan None
+23,Yogyakarta,Alun-alun Utara Keraton Yogyakarta,Candi Ijo,Monumen Sanapati,None,None,Alun-alun Utara Keraton Yogyakarta Candi Ijo Monumen Sanapati None None
+24,Yogyakarta,Pantai Indrayanti,Pantai Nglambor,Pantai Parangtritis,Pantai Sundak,Pantai Krakal,Pantai Indrayanti Pantai Nglambor Pantai Parangtritis Pantai Sundak Pantai Krakal
+25,Yogyakarta,Candi Ijo,Pasar Beringharjo,Sindu Kusuma Edupark (SKE),None,None,Candi Ijo Pasar Beringharjo Sindu Kusuma Edupark (SKE) None None
+26,Yogyakarta,Hutan Pinus Pengger,Bentara Budaya Yogyakarta (BBY),Desa Wisata Pulesari,None,None,Hutan Pinus Pengger Bentara Budaya Yogyakarta (BBY) Desa Wisata Pulesari None None
+27,Yogyakarta,Candi Prambanan,Candi Borobudur,Kawasan Malioboro,None,None,Candi Prambanan Candi Borobudur Kawasan Malioboro None None
+28,Yogyakarta,Pantai Patihan,Pantai Kukup,Hutan Mangrove Kulon Progo,Pantai Nguluran,Pantai Samas,Pantai Patihan Pantai Kukup Hutan Mangrove Kulon Progo Pantai Nguluran Pantai Samas
+29,Yogyakarta,Gembira Loka Zoo,Kampung Wisata Kadipaten,Tebing Breksi,Embung Tambakboyo,None,Gembira Loka Zoo Kampung Wisata Kadipaten Tebing Breksi Embung Tambakboyo None
+30,Yogyakarta,The Lost World Castle,Monumen Sanapati,Green Village Gedangsari,Pantai Depok Jogja,None,The Lost World Castle Monumen Sanapati Green Village Gedangsari Pantai Depok Jogja None
+31,Yogyakarta,Puncak Segoro,Taman Pelangi Jogja,Galaxy Waterpark Jogja,None,None,Puncak Segoro Taman Pelangi Jogja Galaxy Waterpark Jogja None None
+32,Yogyakarta,Bukit Wisata Pulepayung,Hutan Pinus Asri,Kebun Teh Nglinggo,Goa Pindul,Wisata Kalibiru,Bukit Wisata Pulepayung Hutan Pinus Asri Kebun Teh Nglinggo Goa Pindul Wisata Kalibiru
+33,Yogyakarta,Pantai Glagah,Pantai Drini,Pantai Wediombo,Pantai Jogan,Pantai Ngrenehan,Pantai Glagah Pantai Drini Pantai Wediombo Pantai Jogan Pantai Ngrenehan
+34,Yogyakarta,Desa Wisata Sungai Code Jogja Kota,Kawasan Malioboro,Kauman Pakualaman Yogyakarta,None,None,Desa Wisata Sungai Code Jogja Kota Kawasan Malioboro Kauman Pakualaman Yogyakarta None None
+35,Yogyakarta,Kampung Wisata Taman Sari,Monumen Serangan Umum 1 Maret,Puncak Kebun Buah Mangunan,Seribu Batu Songgo Langit,"Bukit Paralayang, Watugupit","Kampung Wisata Taman Sari Monumen Serangan Umum 1 Maret Puncak Kebun Buah Mangunan Seribu Batu Songgo Langit Bukit Paralayang, Watugupit"
+36,Yogyakarta,Jurang Tembelan Kanigoro,Lava Bantal,Watu Goyang,Watu Lumbung,None,Jurang Tembelan Kanigoro Lava Bantal Watu Goyang Watu Lumbung None
+37,Yogyakarta,De Mata Museum Jogja,Kampung Wisata Kadipaten,Tebing Breksi,Bentara Budaya Yogyakarta (BBY),None,De Mata Museum Jogja Kampung Wisata Kadipaten Tebing Breksi Bentara Budaya Yogyakarta (BBY) None
+38,Yogyakarta,Watu Lumbung,Bunker Kaliadem Merapi,Goa Rancang Kencono,Pintoe Langit Dahromo,Wisata Kaliurang,Watu Lumbung Bunker Kaliadem Merapi Goa Rancang Kencono Pintoe Langit Dahromo Wisata Kaliurang
+39,Yogyakarta,Sindu Kusuma Edupark (SKE),Taman Pelangi Yogyakarta,The Lost World Castle,The World Landmarks - Merapi Park Yogyakarta,None,Sindu Kusuma Edupark (SKE) Taman Pelangi Yogyakarta The Lost World Castle The World Landmarks - Merapi Park Yogyakarta None
+40,Yogyakarta,Pasar Beringharjo,Pasar Kebon Empring Bintaran,Kawasan Wisata Sosrowijayan,None,None,Pasar Beringharjo Pasar Kebon Empring Bintaran Kawasan Wisata Sosrowijayan None None
+41,Bandung,Dago Dreampark,Orchid Forest Cikole,Jendela Alam,Sudut Pandang Bandung,None,Dago Dreampark Orchid Forest Cikole Jendela Alam Sudut Pandang Bandung None
+42,Bandung,Gunung Tangkuban Perahu,Gunung Papandayan,Gunung Manglayang,Curug Dago,Curug Batu Templek,Gunung Tangkuban Perahu Gunung Papandayan Gunung Manglayang Curug Dago Curug Batu Templek
+43,Bandung,Museum Geologi Bandung,Museum Sri Baduga,Museum Pendidikan Nasional,Taman Film,Museum Nike Ardilla,Museum Geologi Bandung Museum Sri Baduga Museum Pendidikan Nasional Taman Film Museum Nike Ardilla
+44,Bandung,Museum Konferensi Asia Afrika,Monumen Perjuangan Rakyat Jawa Barat,Museum Mandala Wangsit Siliwangi,Taman Sejarah Bandung,None,Museum Konferensi Asia Afrika Monumen Perjuangan Rakyat Jawa Barat Museum Mandala Wangsit Siliwangi Taman Sejarah Bandung None
+45,Bandung,Kyotoku Floating Market,Mountain View Golf Club,Trans Studio Bandung,None,None,Kyotoku Floating Market Mountain View Golf Club Trans Studio Bandung None None
+46,Bandung,Glamping Lakeside Rancabali,Taman Miniatur Kereta Api,Kota Mini,None,None,Glamping Lakeside Rancabali Taman Miniatur Kereta Api Kota Mini None None
+47,Bandung,Gereja Katedral Santo Petrus Bandung,Masjid Pusdai,Masjid Al-Imtizaj,None,None,Gereja Katedral Santo Petrus Bandung Masjid Pusdai Masjid Al-Imtizaj None None
+48,Bandung,Caringin Tilu,Curug Anom,Bukit Jamur,Kebun Tanaman Obat Sari Alam,None,Caringin Tilu Curug Anom Bukit Jamur Kebun Tanaman Obat Sari Alam None
+49,Bandung,NuArt Sculpture Park,Pesona Nirwana Waterpark & Cottages, Panama Park 825,Water Park Bandung Indah,Chingu Cafe Little Seoul,NuArt Sculpture Park Pesona Nirwana Waterpark & Cottages  Panama Park 825 Water Park Bandung Indah Chingu Cafe Little Seoul
+50,Bandung,Taman Hutan Raya Ir. H. Djuanda,Tebing Karaton,Kampung Korea Bandung,Kiara Artha Park,| Peta Park,Taman Hutan Raya Ir. H. Djuanda Tebing Karaton Kampung Korea Bandung Kiara Artha Park | Peta Park
+51,Bandung,Situ Patenggang,Rainbow Garden,Kota Mini,None,None,Situ Patenggang Rainbow Garden Kota Mini None None
+52,Bandung,Taman Begonia,Curug Malela,Taman Kupu-Kupu Cihanjuang,Gua Pawon,Stone Garden Geopark,Taman Begonia Curug Malela Taman Kupu-Kupu Cihanjuang Gua Pawon Stone Garden Geopark
+53,Bandung,Alun-Alun Kota Bandung,Taman Balai Kota Bandung,Teras Cikapundung BBWS,Taman Vanda,Ade Irma Suryani Nasution Traffic Park,Alun-Alun Kota Bandung Taman Balai Kota Bandung Teras Cikapundung BBWS Taman Vanda Ade Irma Suryani Nasution Traffic Park
+54,Bandung,Rainbow Garden,Kota Mini,Rainbow Garden,Kota Mini,None,Rainbow Garden Kota Mini Rainbow Garden Kota Mini None
+55,Bandung,Masjid Raya Bandung,Taman Lansia,Monumen Bandung Lautan Api,Museum Pos Indonesia,None,Masjid Raya Bandung Taman Lansia Monumen Bandung Lautan Api Museum Pos Indonesia None
+56,Bandung,Kawah Putih,Panghegar Waterboom Bandung,Saung Angklung Mang Udjo,None,None,Kawah Putih Panghegar Waterboom Bandung Saung Angklung Mang Udjo None None
+57,Bandung,Museum Gedung Sate,Roemah Seni Sarasvati,Museum Pendidikan Nasional,Taman Film,Museum Nike Ardilla,Museum Gedung Sate Roemah Seni Sarasvati Museum Pendidikan Nasional Taman Film Museum Nike Ardilla
+58,Bandung,Kebun Binatang Bandung,Lembang Park & Zoo,Curug Cipanas,Tafso Barn,None,Kebun Binatang Bandung Lembang Park & Zoo Curug Cipanas Tafso Barn None
+59,Bandung,Kawasan Punclut,Lawangwangi Creative Space,Curug Tilu Leuwi Opat,Taman Budaya Jawa Barat,Curug Bugbrug,Kawasan Punclut Lawangwangi Creative Space Curug Tilu Leuwi Opat Taman Budaya Jawa Barat Curug Bugbrug
+60,Bandung,Curug Dago,Curug Batu Templek,Curug Aseupan,Curug Anom,Curug Luhur Waterfall,Curug Dago Curug Batu Templek Curug Aseupan Curug Anom Curug Luhur Waterfall
+61,Semarang,Candi Gedong Songo,Lawang Sewu,Sam Poo Kong Temple,None,None,Candi Gedong Songo Lawang Sewu Sam Poo Kong Temple None None
+62,Semarang,Grand Maerakaca,Kampung Pelangi,Desa Wisata Lembah Kalipancur,Taman Kasmaran,None,Grand Maerakaca Kampung Pelangi Desa Wisata Lembah Kalipancur Taman Kasmaran None
+63,Semarang,Pantai Baruna,Pantai Marina, Pantai Cipta,None,None,Pantai Baruna Pantai Marina  Pantai Cipta None None
+64,Semarang,Indonesia Kaya Park,Taman Pandanaran,Taman Srigunting,None,None,Indonesia Kaya Park Taman Pandanaran Taman Srigunting None None
+65,Semarang,Jembatan Biru Ambarawa,Masjid Agung Ungaran,Tugu Muda Semarang,Taman Tabanas,Kampung Tematik Jawi,Jembatan Biru Ambarawa Masjid Agung Ungaran Tugu Muda Semarang Taman Tabanas Kampung Tematik Jawi
+66,Semarang,Air Terjun Semirang,Obyek Wisata Goa Kreo,Watu Gunung Ungaran,Brown Canyon,Durian Gardens and Tourism Education Watu Simbar,Air Terjun Semirang Obyek Wisata Goa Kreo Watu Gunung Ungaran Brown Canyon Durian Gardens and Tourism Education Watu Simbar
+67,Semarang,Saloka Theme Park,Water Blaster Bukit Candi Golf,Kampoeng Kopi Banaran,None,None,Saloka Theme Park Water Blaster Bukit Candi Golf Kampoeng Kopi Banaran None None
+68,Semarang,Water Blaster Bukit Candi Golf,Kampung Batik Gedong Semarang,Semarang Gallery,Flower Farm Setiya Aji,None,Water Blaster Bukit Candi Golf Kampung Batik Gedong Semarang Semarang Gallery Flower Farm Setiya Aji None
+69,Semarang,Waduk Jatibarang,Wisata Lereng Kelir,Kampoeng Rawa,Wisata Eling Bening,Gua Maria Kerep Ambarawa,Waduk Jatibarang Wisata Lereng Kelir Kampoeng Rawa Wisata Eling Bening Gua Maria Kerep Ambarawa
+70,Semarang,Kampoeng Djadhoel Semarang,Pura Giri Natha,Old City 3D Trick Art Museum,Semarang Contemporary Art Gallery,None,Kampoeng Djadhoel Semarang Pura Giri Natha Old City 3D Trick Art Museum Semarang Contemporary Art Gallery None
+71,Semarang,Wisata Lereng Kelir,Monumen Palagan Ambarawa,Benteng Pendem,Museum Kereta Ambarawa,Hutan Pinus Kayon,Wisata Lereng Kelir Monumen Palagan Ambarawa Benteng Pendem Museum Kereta Ambarawa Hutan Pinus Kayon
+72,Semarang,GPIB Immanuel Semarang (Gereja Blenduk),Masjid Kapal Semarang,Masjid Agung Ungaran,None,None,GPIB Immanuel Semarang (Gereja Blenduk) Masjid Kapal Semarang Masjid Agung Ungaran None None
+73,Semarang,Monumen Palagan Ambarawa,Benteng Pendem,Museum Kereta Ambarawa,Kota Lama Semarang,Semarang Chinatown,Monumen Palagan Ambarawa Benteng Pendem Museum Kereta Ambarawa Kota Lama Semarang Semarang Chinatown
+74,Semarang,Kampung Pelangi,Hutan Wisata Tinjomoyo Semarang,Taman Kasmaran,None,None,Kampung Pelangi Hutan Wisata Tinjomoyo Semarang Taman Kasmaran None None
+75,Semarang,Wisata Mangrove Tapak,Umbul Sidomukti,Wisata Alam Wana Wisata Penggaron,None,None,Wisata Mangrove Tapak Umbul Sidomukti Wisata Alam Wana Wisata Penggaron None None
+76,Semarang,Candi Gedong Songo,Grand Maerakaca,Lawang Sewu,None,None,Candi Gedong Songo Grand Maerakaca Lawang Sewu None None
+77,Semarang,Tirto Argo Siwarak,Wisata Eling Bening,Semarang Chinatown,La Kana Chapel,None,Tirto Argo Siwarak Wisata Eling Bening Semarang Chinatown La Kana Chapel None
+78,Semarang,Pantai Baruna,Pantai Marina,Wisata Mangrove Tapak,Pantai Cipta,None,Pantai Baruna Pantai Marina Wisata Mangrove Tapak Pantai Cipta None
+79,Semarang,Waduk Jatibarang,Kampoeng Rawa,Gua Maria Kerep Ambarawa,Kota Lama Semarang,None,Waduk Jatibarang Kampoeng Rawa Gua Maria Kerep Ambarawa Kota Lama Semarang None
+80,Semarang,Desa Wisata Lembah Kalipancur,Masjid Kapal Semarang,Kota Lama Semarang,Brown Canyon,None,Desa Wisata Lembah Kalipancur Masjid Kapal Semarang Kota Lama Semarang Brown Canyon None
+81,Surabaya,Taman Prestasi,Taman Keputran,Taman Bungkul,Taman Flora Bratang Surabaya,None,Taman Prestasi Taman Keputran Taman Bungkul Taman Flora Bratang Surabaya None
+82,Surabaya,Museum Sepuluh Nopember Kota Surabaya,Museum Kesehatan Dr. Adhyatma,Patung Buddha Empat Rupa,Museum TNI AL Loka Jala Crana,Keraton Surabaya,Museum Sepuluh Nopember Kota Surabaya Museum Kesehatan Dr. Adhyatma Patung Buddha Empat Rupa Museum TNI AL Loka Jala Crana Keraton Surabaya
+83,Surabaya,Masjid Muhammad Cheng Hoo,Masjid Nasional Al-Akbar,Klenteng Sanggar Agung,Patung Buddha Empat Rupa,Gereja Perawan Maria Tak Berdosa Surabaya,Masjid Muhammad Cheng Hoo Masjid Nasional Al-Akbar Klenteng Sanggar Agung Patung Buddha Empat Rupa Gereja Perawan Maria Tak Berdosa Surabaya
+84,Surabaya,Ciputra Waterpark,Kenjeran Park,Kebun Binatang Surabaya,Atlantis Land Surabaya,None,Ciputra Waterpark Kenjeran Park Kebun Binatang Surabaya Atlantis Land Surabaya None
+85,Surabaya,Air Mancur Menari,Monumen Kapal Selam,Pantai Ria Kenjeran,None,None,Air Mancur Menari Monumen Kapal Selam Pantai Ria Kenjeran None None
+86,Surabaya,Museum De Javasche Bank,Surabaya Museum (Gedung Siola),Balai Kota Surabaya,Museum Mpu Tantular,None,Museum De Javasche Bank Surabaya Museum (Gedung Siola) Balai Kota Surabaya Museum Mpu Tantular None
+87,Surabaya,Surabaya North Quay,Waterpark Kenjeran Surabaya,| Food Junction Grand Pakuwon,None,None,Surabaya North Quay Waterpark Kenjeran Surabaya | Food Junction Grand Pakuwon None None
+88,Surabaya,Taman Buah Surabaya,Taman Pelangi,Taman Barunawati,Taman Mundu,None,Taman Buah Surabaya Taman Pelangi Taman Barunawati Taman Mundu None
+89,Surabaya,Rumah Batik,Jembatan Merah,Monumen Tugu Pahlawan,Monumen Jalesveva Jayamahe,Patung Sura dan Buaya,Rumah Batik Jembatan Merah Monumen Tugu Pahlawan Monumen Jalesveva Jayamahe Patung Sura dan Buaya
+90,Surabaya,Monumen Tugu Pahlawan,Monumen Jalesveva Jayamahe,Patung Sura dan Buaya,Monumen Bambu Runcing Surabaya,House of Sampoerna,Monumen Tugu Pahlawan Monumen Jalesveva Jayamahe Patung Sura dan Buaya Monumen Bambu Runcing Surabaya House of Sampoerna
+91,Surabaya,Ekowisata Mangrove Wonorejo,Taman Harmoni Keputih,Taman Air Mancur Menari Kenjeran,None,None,Ekowisata Mangrove Wonorejo Taman Harmoni Keputih Taman Air Mancur Menari Kenjeran None None
+92,Surabaya,Taman Kunang-Kunang,Taman Ekspresi Dan Perpustakaan,Taman Air Mancur Menari Kenjeran,None,None,Taman Kunang-Kunang Taman Ekspresi Dan Perpustakaan Taman Air Mancur Menari Kenjeran None None
+93,Surabaya,Museum TNI AL Loka Jala Crana,Klenteng Sanggar Agung,Museum Sepuluh Nopember Kota Surabaya,Museum Kesehatan Dr. Adhyatma,Taman Hiburan Rakyat,Museum TNI AL Loka Jala Crana Klenteng Sanggar Agung Museum Sepuluh Nopember Kota Surabaya Museum Kesehatan Dr. Adhyatma Taman Hiburan Rakyat
+94,Surabaya,Taman Buah Surabaya,Taman Pelangi,Hutan Bambu Keputih,Taman Barunawati,Kebun Bibit Wonorejo,Taman Buah Surabaya Taman Pelangi Hutan Bambu Keputih Taman Barunawati Kebun Bibit Wonorejo
+95,Surabaya,Museum TNI AL Loka Jala Crana,Taman Hiburan Rakyat,Museum De Javasche Bank,Museum Mpu Tantular,None,Museum TNI AL Loka Jala Crana Taman Hiburan Rakyat Museum De Javasche Bank Museum Mpu Tantular None
+96,Surabaya,Ekowisata Mangrove Wonorejo,Taman Harmoni Keputih,Taman Kunang-Kunang,Taman Ekspresi Dan Perpustakaan,Museum De Javasche Bank,Ekowisata Mangrove Wonorejo Taman Harmoni Keputih Taman Kunang-Kunang Taman Ekspresi Dan Perpustakaan Museum De Javasche Bank
+97,Surabaya,Ciputra Waterpark,Kenjeran Park,Kebun Binatang Surabaya,Food Junction Grand Pakuwon,| Atlantis Land Surabaya,Ciputra Waterpark Kenjeran Park Kebun Binatang Surabaya Food Junction Grand Pakuwon | Atlantis Land Surabaya
+98,Surabaya,Museum Kesehatan Dr. Adhyatma,Patung Buddha Empat Rupa,Taman Hiburan Rakyat,Taman Bungkul,Taman Flora Bratang Surabaya,Museum Kesehatan Dr. Adhyatma Patung Buddha Empat Rupa Taman Hiburan Rakyat Taman Bungkul Taman Flora Bratang Surabaya
+99,Surabaya,Taman Ekspresi Dan Perpustakaan,Museum De Javasche Bank,Surabaya Museum (Gedung Siola),Museum Mpu Tantular,Taman Air Mancur Menari Kenjeran,Taman Ekspresi Dan Perpustakaan Museum De Javasche Bank Surabaya Museum (Gedung Siola) Museum Mpu Tantular Taman Air Mancur Menari Kenjeran
+100,Surabaya,Taman Buah Surabaya,Hutan Bambu Keputih,Taman Barunawati,Kebun Bibit Wonorejo,Taman Mundu,Taman Buah Surabaya Hutan Bambu Keputih Taman Barunawati Kebun Bibit Wonorejo Taman Mundu

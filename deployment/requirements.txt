@@ -1,0 +1,13 @@
+streamlit
+pandas
+seaborn
+matplotlib.pyplot
+plotly
+numpy
+Pillow
+pickle
+nltk
+regex
+Sastrawi
+scikit.learn
+scipy
